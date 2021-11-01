@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+![banner](https://www.vouchful.com/images/email-kit/elements-divider-horizontal.png)
 
 # project biotenshu
 
